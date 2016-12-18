@@ -10,7 +10,7 @@ body {
 	padding: 0;
 	margin: 0;
 	background: #FFF;
-	font-family: 'Merriweather Sans', sans-serif;
+	font-family: 'Microsoft JhengHei', sans-serif;
 }
 body a {
 	transition: 0.5s all;
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Microsoft JhengHei', sans-serif;
 	letter-spacing:1px;
 }
 p {
@@ -90,7 +90,7 @@ img {
 .b-part2 h4{
 	font-size:14px;
 	color:#fff;
-	font-family: 'Merriweather Sans', sans-serif;
+	font-family: 'Microsoft JhengHei', sans-serif;
 }
 .b-part2 h4 a{
 	color:#fff;
